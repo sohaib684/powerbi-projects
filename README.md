@@ -21,3 +21,10 @@ This is a professional Power BI dashboard built using sample sales data fetched 
 -  `Sohaib-Sales-Report.pbix` – Main Power BI report
 
 Created by: Sohaib Alam
+## Working video
+
+https://github.com/user-attachments/assets/78bb3aa1-3d54-4cd1-b731-ac20a6ade66f
+
+
+
+
